@@ -1,43 +1,30 @@
-# Hi there, I'm Franklin Joseph
+# Hi there, I'm Franklin Joseph 👋
 
-Security Solutions Architect with experience in endpoint security and enterprise security operations.
+Security Solutions Architect with experience in endpoint security, enterprise security operations, and security architecture. Passionate about cloud security, identity, and building hands-on cybersecurity labs.
 
-## Current Focus
+## 🎓 Certifications
+
+* ✅ ISC2 Certified in Cybersecurity (CC)
+* 📚 CompTIA Security+ (Training Completed)
+* 📚 CISSP Training (Completed)
+* 🎯 Next: SC-900 → SC-300 → AZ-500
+
+## 🚀 Current Focus
 
 * Security Architecture
 * Cloud Security
-* Identity & Access Management
+* Identity & Access Management (IAM)
 * Security Engineering
 * Zero Trust
 
-## Certifications
+## 📂 Portfolio Projects
 
-* ISC2 Certified in Cybersecurity (CC) – Preparing
-* CompTIA Security+ (Training Completed)
-* CISSP Training (Completed)
-* Future roadmap: SC-900 → SC-300 → AZ-500
+* 🧪 Cybersecurity Learning Journal
+* ☁️ Cloud Security Labs
+* 🛡️ Security Architecture Designs
+* 🚨 Incident Response Scenarios
 
-## Portfolio Projects
+## 🤝 Connect
 
-* Security Architecture Designs
-* Cybersecurity Learning Journal
-* Cloud Security Labs
-* Incident Response Scenarios
-
-## Connect
-
-LinkedIn: [https://www.linkedin.com/in/franklinjosephwave]
-<!--
-**franklin459-riff/franklin459-riff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* LinkedIn: https://www.linkedin.com/in/franklinjosephwave
+* GitHub Learning Journal: https://github.com/franklin459-riff/cybersecurity-learning-journal
